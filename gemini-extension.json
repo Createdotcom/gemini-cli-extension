@@ -1,0 +1,14 @@
+{
+  "name": "create",
+  "version": "0.1.0",
+  "description": "Deploy apps and run your online store on Create.com from Gemini CLI: projects, deploys, domains, products, stock and orders.",
+  "mcpServers": {
+    "create": {
+      "httpUrl": "https://mcp.create.com/apps"
+    },
+    "create-commerce": {
+      "httpUrl": "https://mcp.create.com/commerce"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
